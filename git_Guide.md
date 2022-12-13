@@ -30,7 +30,8 @@ Have a nice day, <font size ="4"> __Ivan :)__ 😃
 [official website]: <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>
 [Microsoft Visual Studio Code]: <https://code.visualstudio.com/>
 ---
-## Now we have the second stage of out jorney: merging and resolving conflicts :)
+## Now we have the second stage of our jorney: merging and resolving conflicts :)
 ---
 
 ### Now we have the third part of our journey: connect to remote repository :)
+## Now we have the fourth stage of our jorney: pass a git exam :)
