@@ -34,4 +34,6 @@ Have a nice day, <font size ="4"> __Ivan :)__ 😃
 ---
 
 ### Now we have the third part of our journey: connect to remote repository :)
+---
+
 ## Now we have the fourth stage of our jorney: pass a git exam :)
